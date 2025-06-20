@@ -1,6 +1,6 @@
 # Recruitment Recommendation Agent 💼
 
-![Recruitment Agent Demo](https://via.placeholder.com/800x400?text=Recruitment+Agent+Demo+GIF/Image)
+![Recruitment Agent Demo]([https://via.placeholder.com/800x400?text=Recruitment+Agent+Demo+GIF/Image](https://huggingface.co/spaces/tariq321/Recruitment-Recommendation-Agent))
 
 > An AI-powered recruitment assistant that analyzes resumes, matches candidates to job descriptions, and provides actionable insights.
 
