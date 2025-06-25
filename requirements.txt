@@ -1,5 +1,9 @@
-streamlit
-pandas
-pdfPlumber
-groq
+sentence-transformers
 python-docx
+pdfplumber
+pandas
+streamlit
+groq
+scikit-learn
+numpy
+faiss-cpu
